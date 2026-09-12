@@ -96,4 +96,4 @@ This project is released under the MIT License.
 
 ---
 
-**Author:** [PANAKAJ01](https://github.com/PANAKAJ01)
+**Author:** [AASHKA2006](https://github.com/Aashka2006)
